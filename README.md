@@ -1,17 +1,29 @@
 # CPPproject
 # Gra RTS (Real Time Strategy)
- 
- Celem projektu jest utworzenie gry RTS w klimacie sci-fi z u¿yciem Unity oraz Blender.
 
- (W nawiasach znajduj¹ siê cele, oraz technologie których ukoñczenie/u¿ycie jest opcjonalne w przypadku gdy wystarczy na nie czasu)
+ Celem projektu jest utworzenie gry RTS w klimacie sci-fi z uÅ¼yciem Unity oraz Blender.
+
+ (W nawiasach znajdujÄ… siÄ™ cele, oraz technologie ktÃ³rych ukoÅ„czenie/uÅ¼ycie jest opcjonalne w przypadku gdy wystarczy na nie czasu)
 
  Cele:
  - Dwie grywalne frakcje :Ludzie i Obcy.
- - Mapa (mapy), na której bêdzie toczona rozgrywka.
- - Mechanika gry - walka, nawigacja po mapie, budowanie budynków , funkcje budynków, AI przeciwnika.
- - (Dodatkowa mechanika gry -rozwój technologiczny frakcji, menu umo¿liwiaj¹ce modyfikacjê budynków/jednostek za pomoc¹ modu³ów odblokowywanych przez zbadane technologie)
+ - Mapa (mapy), na ktÃ³rej bÄ™dzie toczona rozgrywka.
+ - Mechanika gry - walka, nawigacja po mapie, budowanie budynkÃ³w , funkcje budynkÃ³w, AI przeciwnika.
+ - (Dodatkowa mechanika gry -rozwÃ³j technologiczny frakcji, menu umoÅ¼liwiajÄ…ce modyfikacjÄ™ budynkÃ³w/jednostek za pomoca moduÅ‚Ã³w odblokowywanych przez zbadane technologie)
 
- U¿yte technologie:
+ UÅ¼yte technologie:
  -Unity (C#)
  -Blender
  -(Maya+Mudbox)
+
+#Prototyp
+
+Prototyp poruszania siÄ™, oraz atakowania jednostek przeciwnika przez jednostki gracza.
+
+Do zrobienia:
+- dopracowanie ruchu oraz walki jednostek (widoczne problemy z ruchem po atakowaniu oraz problemy z samym atakowaniem, glitche particle effect'Ã³w)
+- AI
+- Budynki
+- Dodatkowe jednostki gracza oraz jednostki przeciwnika
+- Mapa
+- (PozostaÅ‚e opcjonalne funkcje)
